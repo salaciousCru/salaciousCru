@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on getting Azure Certified
+- 🤔 I’m looking for help with github 
+- 💬 Ask me about mtb
+- ⚡ Fun fact: If it was easy, everyone would do it.
+
 <!--
 **salaciousCru/salaciousCru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
