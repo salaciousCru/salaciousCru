@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on getting Azure Certified
+- 🌱 I’m currently learning python
 - 🤔 I’m looking for help with github 
 - 💬 Ask me about mtb
 - ⚡ Fun fact: If it was easy, everyone would do it.
